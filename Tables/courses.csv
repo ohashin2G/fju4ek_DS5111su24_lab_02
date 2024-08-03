@@ -1,0 +1,18 @@
+﻿course_id,mnemonic,course_name,description_short,course_ ctive
+5559,ds_biz_analytics,Business Analytics for Data Scientists,Focuses on the application of data science to critical problems and opportunities in business. ,TRUE
+4000,ds_tech_bootcamp,Technical Bootcamp,Bootcamp for new online MSDS students,TRUE
+5001,ds5001,Exploratory Text Analytics,"Introduction to text analytics with a focus on long-form documents, such as reviews, news articles, and novels. Focus on unsupervised methods.",TRUE
+5012,cs5012,Foundations of Computer Science,"A foundation in discrete mathematics, data structures, algorithmic design and implementation, computational complexity, parallel computing, and data integrity.",TRUE
+5100,ds5100,Programming for Data Science,"Programming essentials for data science: Python, R, GitHub",TRUE
+5110,ds5110,Big Data Systems,Use Spark for large-scale analytics and machine learning. Basics of AWS cloud tools.,TRUE
+6001,ds6001,Practice and Application of Data Science,"Build skills to acquire, clean, analyze, understand, and interpret data",TRUE
+6002,ds6002,Big Data Ethics,Examines the ethical issues arising around big data.,TRUE
+6011,ds6011,Data Science Capstone Project Work I,Data science capstone part 1,TRUE
+6013,ds6013,Data Science Capstone Project Work II,Data science capstone part 2,TRUE
+6030,ds6030,Statistical Learning,Fundamentals of data mining and machine learning within a common statistical framework,TRUE
+6040,ds6040,Bayesian Machine Learning,Build Bayesian models to provide predictions and quantify the uncertainty in these predictions,TRUE
+6050,ds6050,Deep Learning,Deep learning fundamentals and applications,TRUE
+5400,sarc5400,Data Visualization,Teaches visual and spatial thinking coupled with visual data tools and interactive web coding to envision information,TRUE
+6021,stat6021,Linear Models for Data Science,An introduction to linear statistical models in the context of data science,TRUE
+6003,ds6003,Practice and Application of Data Science Part 2,Practitioner seminar,FALSE
+6012,ds6012,Big Data Ethics Part 2,Examines the ethical issues arising around big data.,FALSE
