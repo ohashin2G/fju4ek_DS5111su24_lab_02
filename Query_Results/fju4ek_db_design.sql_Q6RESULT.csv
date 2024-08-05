@@ -1,0 +1,5 @@
+﻿COURSE_NAME,LEARNING_OUTCOME,MNEMONIC
+Big Data Systems,Apply Spark SQL to data analysis tasks,ds5110
+Practice and Application of Data Science,"Understand the purpose, typology, and language of NoSQL databases",ds6001
+Practice and Application of Data Science,"Understand how to implement databases Python: SQLite, PostgreSQL, MySQL, MongoDB",ds6001
+Practice and Application of Data Science,Understand how to query databases with SQL ,ds6001

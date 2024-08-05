@@ -1,0 +1,17 @@
+﻿COURSE_NAME,COUNT(O.LEARNING_OUTCOME)
+Technical Bootcamp,15
+Exploratory Text Analytics,8
+Foundations of Computer Science,9
+Programming for Data Science,34
+Big Data Systems,37
+Practice and Application of Data Science,10
+Big Data Ethics,2
+Practice and Application of Data Science Part 2,3
+Data Science Capstone Project Work I,4
+Big Data Ethics Part 2,2
+Data Science Capstone Project Work II,4
+Linear Models for Data Science,13
+Statistical Learning,19
+Bayesian Machine Learning,37
+Business Analytics for Data Scientists,9
+Deep Learning,24
