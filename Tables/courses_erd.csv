@@ -1,4 +1,4 @@
-﻿course_id,mnemonic,course_name,description_short,course_ ctive
+﻿course_id,mnemonic,course_name,description_short,course_active
 5559,ds_biz_analytics,Business Analytics for Data Scientists,Focuses on the application of data science to critical problems and opportunities in business. ,TRUE
 4000,ds_tech_bootcamp,Technical Bootcamp,Bootcamp for new online MSDS students,TRUE
 5001,ds5001,Exploratory Text Analytics,"Introduction to text analytics with a focus on long-form documents, such as reviews, news articles, and novels. Focus on unsupervised methods.",TRUE
