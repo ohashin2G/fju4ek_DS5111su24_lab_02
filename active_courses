@@ -1,0 +1,5 @@
+SELECT
+mnemonic,
+course_name,
+FROM DS5111_SU24.FJU4EK.COURSES_ERD
+WHERE course_active = 'TRUE';
